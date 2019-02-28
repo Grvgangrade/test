@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 khichdi ban gai
+=======
+this is child 1 and not master.
+>>>>>>> child
